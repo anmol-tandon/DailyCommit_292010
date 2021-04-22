@@ -10,5 +10,4 @@ y=float(input("Enter your age"))  # Typecasting
 print(y)
 
 print(str(y))  # Converting inter into string
-
 # x+=3 is same as x=x+3
