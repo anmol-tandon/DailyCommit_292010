@@ -9,8 +9,8 @@ print(20%6)  # To find remainder
 # Can use 3 quotes to print string in multiple lines without \n again and again. For example
 print("""This 
 is
-a
-table""")
+an
+example""")
 
 
 
